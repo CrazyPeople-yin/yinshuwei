@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<!-- saved from url=(0184)file:///C:/Users/%E5%B0%B9%E6%A0%91%E4%BC%9F/Desktop/iphone6%E7%85%A7%E7%89%871127/%E4%B8%BB%E9%A1%B5%20-%20%E4%BF%AE%E6%94%B9%E7%89%88%20-%20%E5%89%AF%E6%9C%AC/%E4%B8%BB%E9%A1%B5.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>CrazyPeople尹</title>
+
+
+
+
+<bgsound src="01.mid" autostart="true" loop="1">
+<style type="text/css">
+body {
+	background-image: url(bj.jpg);
+}
+</style>
+</head><body class="body" ; overflow-y: scroll;"><audio id="music1" controls autoplay="autoplay" preload="" hidden="">
+<source src="01.mid">
+</audio>
+<!--这里是音乐--><!--这里是一个可以控制背景音乐播放暂停的开关-->
+
+
+
+
+
+		
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<link href="./CrazyPeople尹_files/style-min.css" rel="stylesheet" type="text/css">			
+	<link rel="stylesheet" type="text/css" href="./CrazyPeople尹_files/mob-share.css">
+	<style type="text/css">
+	body,td,th {
+	font-family: "华文楷体";
+	font-weight: 700;//加粗
+	color: #FFFF00;
+	font-size: 42px;
+	color: #FFFF00;
+}
+
+
+
+
+    </style>
+  <table width="200" border="0" align="center">
+    <tbody><tr>
+      <th nowrap="" scope="col">CrazyPeople尹</th>
+
+    </tr>
+  </tbody></table>
+
+
+
+  <div id="web-site" class="web-site" style="top: 0px;">
+    <div id="web-site-header" class="web-site-header">
+      <div class="web-site-header-body">
+			<div id="site-class-group" class="site-class-group">
+				<div id="site-class-group-left-btn" class="left-btn" style="visibility: collapse;">
+					<span></span>
+				</div>
+
+
+				<div id="site-class-group-body" class="navi-btn-group site-class-group-body">
+                <div id="bg-navi-btn-1" title="省略" class="navi-btn-item site-class-item navi-btn-item-start navi-btn-item-current" ;=""><span>省略</span>
+<a href="C:\Users\尹树伟\Desktop\主页——最新 - 副本\Untitled-1.html"target=_blank>&nbsp;&nbsp;&nbsp;常用</a>     
+</div>
+<!--这里是第一行常用的代码。&nbsp;&nbsp;&nbsp;常用表示常用两个字前面加空格-->
+<!--这里是音乐--><!--这里是一个可以控制背景音乐播放暂停的开关-->
+
+   <div id="bg-navi-btn-228" title="教师考试" class="navi-btn-item site-class-item navi-btn-item-middle"><span></span>
+<a href="file:///C:/Users/%E5%B0%B9%E6%A0%91%E4%BC%9F/Desktop/%E4%B8%BB%E9%A1%B5%20-%20%E4%BF%AE%E6%94%B9%E7%89%88%20-%20%E5%89%AF%E6%9C%AC/Untitled-1.html" target="_blank">计算机</a>
+</div>
+
+   <div id="bg-navi-btn-228" title="教师考试" class="navi-btn-item site-class-item navi-btn-item-middle"><span></span>
+<a href="file:///C:/Users/%E5%B0%B9%E6%A0%91%E4%BC%9F/Desktop/%E4%B8%BB%E9%A1%B5%20-%20%E4%BF%AE%E6%94%B9%E7%89%88%20-%20%E5%89%AF%E6%9C%AC/Untitled-1.html" target="_blank">计算机</a>
+</div>
+
+                <div id="bg-navi-btn-228" title="教师考试" class="navi-btn-item site-class-item navi-btn-item-middle"><span></span><a href="file:///C:/Users/%E5%B0%B9%E6%A0%91%E4%BC%9F/Desktop/%E4%B8%BB%E9%A1%B5%20-%20%E4%BF%AE%E6%94%B9%E7%89%88%20-%20%E5%89%AF%E6%9C%AC/Untitled-1.html" target="_blank">计算机</a></div>
+                <div id="bg-navi-btn-229" title="计算机" class="navi-btn-item site-class-item navi-btn-item-middle"><span>计算机</span></div>
+                <div id="bg-navi-btn-230" title="视频网站" class="navi-btn-item site-class-item navi-btn-item-middle"><span>视频网站</span></div> 
+             
+
+       
+			</div>
+		</div>
+                       
+	</div>
+
+<div id="site-class-group-right-btn" class="right-btn" style="visibility: collapse;">
+					<span></span>
+				</div>
+			
+		</div>
+
+
+
+
+
+
+
+	<div id="web-site-body" class="web-site-body">
+		
+		<div class="web-group  web-group-couple " id="web-group-1">
+				<div class="web-group-head">常用</div>
+		  <div class="web-group-item web-group-item-head"></div>
+				
+		  
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+									
+				
+			</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+
+
+</div>		
+					
+			<div class="web-group  web-group-end  web-group-single " id="web-group-20">
+				<div class="web-group-head">
+					<span class="title-font">技术</span>
+				</div>
+				<div class="web-group-item web-group-item-head"></div>
+				
+									
+					<a class="web-group-item" target="_blank" href="https://www.baidu.com/" rel="" title="百度">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcWdnV2x*8rEnkORGR6UfYCmdia*ZX27exUO9xFcZQuJgaCWGxq7OF6wfDpEZjjCaMsef1Bo7a7MRc2Wzi.zEXAU!/r.png&quot;);"></div>
+						<span class="web-group-name">百度</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.zhihu.com/signin?next=%2F" rel="" title="知乎">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mce0kP2F9fo17CLPYdhPn3.xec9iVgZh22lpDZLuhFQXl.pXd8UU4xr73ARMzRs0j5y.9Nd.hnxryVwV7U5BRh9g!/r.png&quot;);"></div>
+						<span class="web-group-name">知乎</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://www.bilibili.com/" rel="" title="哔哩哔哩">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcQXJoLed5r0gvz2RsRUizthUzmuACKrEY9Yd0BrSyAMybIcDG6JzDCMCZvLRQ0bWG28dmjXZEA*dpxi8gQ8CAfo!/r.png&quot;);"></div>
+						<span class="web-group-name">哔哩哔哩</span>
+					</a>				
+					<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+                                                                                </a>
+				<a class="web-group-item" target="_blank" href="https://mp.weixin.qq.com/" rel="" title="微信公众号">
+						<div class="web-group-icon" style="background-image: url(&quot;http://r.photo.store.qq.com/psc?/V53mWodv1AzFZF1uu4XA2EXgGS3F8JFd/45NBuzDIW489QBoVep5mcc1bN8bUemv2AEeM0*BAiGp2d71d7wBluDRHNp.cFiddiz.vxOdPpDaLc3kZzCozIOUHEYUagBrf4O2frMEdCYg!/r.png&quot;);"></div>
+						<span class="web-group-name">微信公众</span>
+					</a>
+
+
+
+
+
+				
+					<a class="web-group-item" target="_blank" href="javascript:void(0);" rel="" title="">
+						<div class="web-group-icon"></div>
+						<span class="web-group-name"></span>
+					</a>
+				
+					<a class="web-group-item" target="_blank" href="javascript:void(0);" rel="" title="">
+						<div class="web-group-icon"></div>
+						<span class="web-group-name"></span>
+					</a>
+				
+					<a class="web-group-item" target="_blank" href="javascript:void(0);" rel="" title="">
+						<div class="web-group-icon"></div>
+						<span class="web-group-name"></span>
+					</a>
+				
+					<a class="web-group-item" target="_blank" href="javascript:void(0);" rel="" title="">
+						<div class="web-group-icon"></div>
+						<span class="web-group-name"></span>
+					</a>
+				
+					<a class="web-group-item" target="_blank" href="javascript:void(0);" rel="" title="">
+						<div class="web-group-icon"></div>
+						<span class="web-group-name"></span>
+					</a>
+				
+			</div>
+			
+			
+			
+		
+	</div>
+</div>
+    
+			
+<div id="bg-setting" class="setting" style="display:none;">
+    <div class="setting-header">
+        <div id="bg-class-group" class="bg-class-group">
+        </div>
+    </div>
+    <div id="bg-content" class="setting-body" style="height: 84.8243%;">
+    	<div id="bg-group" class="bg-group">
+    	</div>
+    </div>
+</div></body></html>
